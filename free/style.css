@@ -276,7 +276,7 @@ align-items: center;
                        .slider{
                         white-space: nowrap;
                         gap: 1.5rem;
-                        animation: 20s slide infinite linear;
+                        animation: 60s slide infinite linear;
                              background-color: #262D2E;
                             
                        }
