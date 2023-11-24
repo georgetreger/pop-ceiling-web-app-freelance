@@ -45,8 +45,8 @@
     text-decoration: none;
     list-style-type: none;
     text-transform: capitalize;
-box-sizing: border-box;
-font-family: sans-serif;
+  box-sizing: border-box;
+   font-family: sans-serif;
   }
 
   body{
@@ -824,6 +824,7 @@ align-items: center;
              textarea{
               padding: 0.5rem;
               border-radius: 4px;
+              text-transform: lowercase;
              }
              .put-container input,
              textarea:focus-within{
