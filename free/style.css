@@ -1222,5 +1222,13 @@ align-items: center;
               display: flex;
               flex-wrap: wrap;
             }
-           
+           .put-container{
+            overflow: hidden;
+           }
+           .put-in{
+            overflow: hidden;
+           }
+           form{
+            overflow: hidden;
+           }
           } 
