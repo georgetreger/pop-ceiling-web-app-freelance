@@ -785,6 +785,7 @@ align-items: center;
               form{
                 display: flex;
                 flex-direction: column;
+                overflow: hidden;
               }
 
             .wrap-enq h1{
@@ -809,6 +810,7 @@ align-items: center;
           .put-in{
             display: flex;
             flex-direction: column;
+             overflow: hidden;
           }
           .put-container h1{
               margin: 1rem;
