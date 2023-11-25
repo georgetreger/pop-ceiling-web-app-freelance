@@ -1242,5 +1242,6 @@ align-items: center;
            }
            .put-in input, textarea, button{
             width: 80%;
+            overflow: hidden;
            }
           } 
