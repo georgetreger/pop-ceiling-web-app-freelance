@@ -1227,8 +1227,20 @@ align-items: center;
            }
            .put-in{
             overflow: hidden;
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+             align-items: center;
            }
            form{
             overflow: hidden;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+             align-items: center;
+           }
+           .put-in input, textarea, button{
+            width: 80%;
            }
           } 
