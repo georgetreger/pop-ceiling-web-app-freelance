@@ -821,12 +821,13 @@ align-items: center;
              textarea,
              button{
               margin-bottom: 1rem;
+              
              }
              .put-container input,
              textarea{
               padding: 0.5rem;
               border-radius: 4px;
-              text-transform: lowercase;
+              text-transform: none;
              }
              .put-container input,
              textarea:focus-within{
