@@ -962,6 +962,19 @@ align-items: center;
                             background-size: cover;
                             background-repeat: no-repeat;
                        }
+
+                     /* kitchen */
+                       .gallery1-container{
+                         display: flex;
+                         justify-content: center;
+                          align-items: center;
+                          width: 100%;
+                          height: 90vh;
+                            background: url('./images/gallery27.jpg');
+                            background-position: center;
+                            background-size: cover;
+                            background-repeat: no-repeat;
+                       }
                             .gallery{
                               display: flex;
                               justify-content: center;
